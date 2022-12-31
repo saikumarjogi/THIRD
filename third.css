@@ -1,0 +1,18 @@
+.dropdown-heading {
+  text-align: center;
+}
+.number {
+  color: orange;
+  padding: 5px;
+  margin-left: 10px;
+  margin-right: 20px;
+  font-weight: bold;
+}
+.btn-group {
+  box-shadow: darkgray;
+  height: 30px;
+  width: 90vw;
+  font-size: 20px;
+  font-weight: 400;
+  padding-right: 60px;
+}
